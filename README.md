@@ -10,6 +10,11 @@ This partcular application written in Python3 achieves the task of reading the S
 
 Can be tailored for further useful tags.:relaxed:
 
+## SCN Blog
+
+[Simple SCN Bot in 10 lines using Python](https://blogs.sap.com/2019/08/25/simple-scn-bot-in-10-lines-using-python/)
+
+
 ### IDE: 
 PyCharm
  (Community 2019)
