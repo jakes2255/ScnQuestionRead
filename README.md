@@ -1,4 +1,4 @@
-# ScnQuestionRead
+# SCN Question Read
 
 ![alt text](https://img.shields.io/badge/Python-3-lightgrey "Python 3")
 ![alt text](https://img.shields.io/badge/SCN-Bot-yellowgreen "SCN Bot")
