@@ -2,6 +2,7 @@
 
 ![alt text](https://img.shields.io/badge/Python-3-lightgrey "Python 3")
 ![alt text](https://img.shields.io/badge/SCN-Bot-yellowgreen "SCN Bot")
+![alt text](https://img.shields.io/badge/Task-Automation-orange "Automation")
 
 Read Sap Community Network(SCN) Questions by using Python3 Libaries in less than 10 lines of code.
 
@@ -10,14 +11,12 @@ This partcular application written in Python3 achieves the task of reading the S
 
 Can be tailored for further useful tags.:relaxed:
 
-## SCN Blog
+## SCN Blogs
 
 [Simple SCN Bot in 10 lines using Python](https://blogs.sap.com/2019/08/25/simple-scn-bot-in-10-lines-using-python/)
 
+[Automating SCN Question Read](https://blogs.sap.com/2019/08/29/automating-scn-question-read/)
 
-### IDE: 
-PyCharm
- (Community 2019)
 
 Thanks</br>
 Arun
