@@ -1,0 +1,1 @@
+python "D:\GyanSys\Python\SCN Question Read\QaRead.py"
