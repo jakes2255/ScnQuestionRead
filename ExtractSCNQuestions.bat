@@ -1,1 +1,1 @@
-python "D:\GyanSys\Python\SCN Question Read\QaRead.py"
+python "D:\<abcd>\Python\SCN Question Read\QaRead.py"
