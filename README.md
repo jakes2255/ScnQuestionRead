@@ -3,7 +3,7 @@
 ![alt text](https://img.shields.io/badge/Python-3-lightgrey "Python 3")
 ![alt text](https://img.shields.io/badge/SCN-Bot-yellowgreen "SCN Bot")
 ![alt text](https://img.shields.io/badge/Task-Automation-orange "Automation")
-![alt text](https://img.shields.io/badge/Email-Notification-blue "e-mail")
+![alt text](https://img.shields.io/badge/Email-Notification-red "e-mail")
 
 Read Sap Community Network(SCN) Questions by using Python3 Libaries in less than 10 lines of code.
 
