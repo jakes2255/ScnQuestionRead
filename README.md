@@ -16,6 +16,15 @@ By Arun Jacob
 
 The goal of this personal project is to set up an Automated Email Notificaion mechanism that reads the latest Questions and Answers published on SAP Developer Community to specified email ids of users. Using data on questions and answeres scrapped from Sap.com, core content of the email is generated.
 
+![SCN Daily Digest](https://github.com/jakes2255/ScnQuestionRead/blob/8c6dbc333df128c0a48340a172b43285aaae8909/img/SCN%20Daily%20Digest%20Desktop%20Version.png)
+## Get Data/Questions
+
+Open a connection to the URL, https://answers.sap.com/index.html using urllibData.
+
+Once the connection is established, Http Status code: 200 is returned and we proceed to filter the HTML Data. The questions and answers follows a specific pattern in the DOM and after carefully examinining the same, we derive the pattern used here. Another Python library for Regular Expressions is used to get all the spcific items in an Array/List.
+
+By looping over the above created Array, we generate the content with Title, link, description etc. For getting richer content we have utilized BeautifulSoup library for scrapping the data and form the email content.
+
 Read Sap Community Network(SCN) Questions by using Python3 Libaries in less than 10 lines of code.
 
 Would it be interesting if we could automate the task of monitoring a website of interest to check for possible updates?
