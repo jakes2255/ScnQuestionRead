@@ -1,10 +1,20 @@
-# SCN Question Read
+# SAP Developer Community Daily Digest
 
 ![alt text](https://img.shields.io/badge/Python-3-lightgrey "Python 3")
 ![alt text](https://img.shields.io/badge/SCN-Bot-yellowgreen "SCN Bot")
 ![alt text](https://img.shields.io/badge/Task-Automation-orange "Automation")
 ![alt text](https://img.shields.io/badge/Email-Notification-red "e-mail")
 ![alt text](https://img.shields.io/badge/Email-Content-green "content")
+
+Daily Email Notification from SAP Developer Community!
+
+![Email Notification](https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg)
+
+By Arun Jacob
+
+## Overview
+
+The goal of this personal project is to set up an Automated Email Notificaion mechanism that reads the latest Questions and Answers published on SAP Developer Community to specified email ids of users. Using data on questions and answeres scrapped from Sap.com, core content of the email is generated.
 
 Read Sap Community Network(SCN) Questions by using Python3 Libaries in less than 10 lines of code.
 
