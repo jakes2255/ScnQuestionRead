@@ -42,6 +42,7 @@ Can be tailored for further useful HTML tags.:relaxed:
 
 [Email Content](https://blogs.sap.com/2019/09/05/web-scraping-with-python-to-beautify-email/)
 
+![Email Notification](https://github.com/jakes2255/ScnQuestionRead/blob/master/img/dailyMotivation.jpg)
 
 Thanks</br>
 Arun
