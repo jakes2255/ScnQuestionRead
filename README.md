@@ -42,6 +42,8 @@ Can be tailored for further useful HTML tags.:relaxed:
 
 [Email Content](https://blogs.sap.com/2019/09/05/web-scraping-with-python-to-beautify-email/)
 
+## Epilogue
+    The below summarizes why we need a daily digest!!!
 ![Email Notification](https://github.com/jakes2255/ScnQuestionRead/blob/master/img/dailyMotivation.jpg)
 
 Thanks</br>
