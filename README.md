@@ -2,8 +2,8 @@
 
 ![alt text](https://img.shields.io/badge/Python-3-lightgrey "Python 3")
 ![alt text](https://img.shields.io/badge/SCN-Bot-yellowgreen "SCN Bot")
-![alt text](https://img.shields.io/badge/Task-Automation-orange "Automation")
-![alt text](https://img.shields.io/badge/Email-Notification-red "e-mail")
+![alt text](https://img.shields.io/badge/Task-Automate-orange "Automation")
+![alt text](https://img.shields.io/badge/Email-Notify-red "e-mail")
 ![alt text](https://img.shields.io/badge/Style-Content-green "content")
 
 Daily Email Notification from SAP Developer Community!
