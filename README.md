@@ -46,5 +46,5 @@ Can be tailored for further useful HTML tags.:relaxed:
     The below summarizes why we need a daily digest!!!
 ![Email Notification](https://github.com/jakes2255/ScnQuestionRead/blob/master/img/dailyMotivation.jpg)
 
-Thanks</br>
+Thanks,</br>
 Arun
