@@ -12,9 +12,6 @@ By Arun Jacob
 
 <!---![Email Notification](https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg)-->
 <p align="center">
-    ![Email Notification](https://pixabay.com/get/gfe82ceee88b45f6c4e525784f5a6b7e438c9a39bd01fb4a710324cb618cb946d6f30053f1385cf6797b97cacee15005e_640.jpg)
-</p>
-<p align="center">
   <img width="460" height="300" src="https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg"><br>
   Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2956974">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2956974">Pixabay</a>
 </p>
