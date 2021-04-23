@@ -8,9 +8,10 @@
 
 Daily Email Notification from SAP Developer Community!
 
-![Email Notification](https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg)
-
 By Arun Jacob
+
+<!---![Email Notification](https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg)-->
+![Email Notification](https://pixabay.com/get/gfe82ceee88b45f6c4e525784f5a6b7e438c9a39bd01fb4a710324cb618cb946d6f30053f1385cf6797b97cacee15005e_640.jpg)
 
 ## Overview
 
