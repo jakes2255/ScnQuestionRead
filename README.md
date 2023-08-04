@@ -12,7 +12,7 @@ By Arun Jacob
 
 <!---![Email Notification](https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg)-->
 <p align="center">
-  <img width="460" height="300" src="[https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg]([https://cdn.pixabay.com/photo/2018/03/10/09/45/businessman-3213659_1280.jpg](https://images.unsplash.com/photo-1683117927786-f146451082fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80))"><br>
+  <img width="460" height="300" src="https://cdn.pixabay.com/photo/2017/11/17/09/37/businessman-2956974_960_720.jpg"><br>
   Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2956974">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2956974">Pixabay</a>
 </p>
 
